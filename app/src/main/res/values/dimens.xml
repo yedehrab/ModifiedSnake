@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Activity -->
+    <dimen name="margins_topRightButton_main">44dp</dimen>
+    <dimen name="marginStart_tvLeftTitle_main">43dp</dimen>
+    <dimen name="marginEnd_tvLeftTitle_main">157dp</dimen>
+    <dimen name="marginTop_tvLeftTitle_main">97dp</dimen>
+
+    <dimen name="textSize_title_main">45sp</dimen>
+    <dimen name="textSize_tvRightTitle_main">50sp</dimen>
+
+    <!-- Main Activity Linear Layout -->
+    <dimen name="marginTop_llButtons_main">35dp</dimen>
+    <dimen name="marginBottom_llButtons_main">55dp</dimen>
+    <dimen name="marginTop_betweenLlButtons_main">-31dp</dimen>
+
+    <!-- Linear Layout Buttons -->
+    <dimen name="paddingBottom_llButtons">5dp</dimen>
+    <dimen name="textSize_llButtons">21sp</dimen>
+
+    <!-- Dialog_Ex_Options Boyutları -->
+    <dimen name="marginTop_betweenGroups_ex_options_dialog">17dp</dimen>
+    <dimen name="marginTopBottom_toParent_ex_options_dialog">37dp</dimen>
+
+    <dimen name="textSize_title_ex_options_dialog">21sp</dimen>
+
+</resources>

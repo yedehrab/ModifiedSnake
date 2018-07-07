@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Senin Yılanın</string>
+
+    <!-- Main Activity Metinleri -->
+
+    <!-- Başlıklar -->
+    <string name="txt_title_left">SENİN</string>
+    <string name="txt_title_right">YILANIN</string>
+
+    <!-- Main Activity Buton İsimleri -->
+    <string name="new_game">Yeni Oyun</string>
+    <string name="game_modes">Oyun Modları</string>
+    <string name="options">Ayarlar</string>
+
+    <!-- İçerik açıklamaları -->
+    <string name="content_description_clickable">Eylem Butonu</string>
+
+    <!-- Ex Options Metinleri -->
+    <string name="txt_length_of_snake_ex_options"> Yılanın uzunluğu (%1$s) </string>
+
+    <string name="txt_size_of_block_ex_options"> Ekranın görüntü boyutu (%1$s)</string>
+
+    <!-- Oyun büyüklüğü metinleri  ( Duruma göre sonuna ex_options ekle) -->
+    <string name="txt_block_very_small"> Çok Küçük </string>
+    <string name="txt_block_small">Küçük</string>
+    <string name="txt_block_normal">Normal</string>
+    <string name="txt_block_large">Büyük</string>
+    <string name="txt_block_very_large">Çok Büyük</string>
+    <string name="txt_block_extremely_large">Aşırı Büyük</string>
+
+    <string name="txt_speed_of_game_ex_options"> Oyun Hızı (%1$s)</string>
+
+</resources>
